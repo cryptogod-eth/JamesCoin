@@ -1,0 +1,2 @@
+# JamesCoin
+ JamesCoin on solana
