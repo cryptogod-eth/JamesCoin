@@ -5798,3 +5798,8 @@ section.banner.s3.s2 .container .swiper-button-prev {
 }
 
 /*# sourceMappingURL=app.css.map */
+@media only screen and (max-width: 600px) {
+  .banner .heading1 {
+    font-size: 5rem;
+  }
+}

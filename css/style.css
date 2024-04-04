@@ -10,6 +10,17 @@
   font-display: block;
 }
 
+/* styles.css */
+
+.heading1 {
+  font-size: 8rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* styles.css */
+
+
+
+
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
@@ -366,3 +377,6 @@
   content: "\e908";
   color: #fff;
 }
+
+/* styles.css */
+
